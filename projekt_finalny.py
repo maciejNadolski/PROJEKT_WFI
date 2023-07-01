@@ -1,3 +1,4 @@
+# @author maciejNadolski
 from vpython import *
 import tkinter as tk
 
